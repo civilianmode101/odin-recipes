@@ -1,0 +1,38 @@
+* { 
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body { 
+  font-family: Verdana, sans-serif;
+}
+
+ul { 
+  list-style: none;
+}
+
+a { 
+  text-decoration: none;
+}
+
+.header{ 
+  text-align: center;
+  margin-top: 16px;
+  border-bottom: 1px solid;
+}
+
+h1 { 
+  text-transform: uppercase;
+  color: chocolate;
+}
+
+footer { 
+  text-align: center;
+  background-color: orange;
+  padding: 12px;
+}
+
+footer span { 
+  font-weight: 700;
+}
